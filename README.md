@@ -74,21 +74,6 @@ Dream-Pharma-Sales-Inventory-Dashboard/
     └── Dream-Pharma-Dashboard.png
 ```
 
-### Where to place each file
-
-1.  Save this file as `README.md` in the **root folder** of the
-    repository.
-2.  Rename your Excel workbook to `Dream-Pharma-Sales-Analysis.xlsx` and
-    place it in the `Dashboard/` folder.
-3.  Save the dashboard screenshot as `Dream-Pharma-Dashboard.png` inside
-    the `Screenshots/` folder.
-4.  Keep the folder and file names consistent with the structure above
-    so the preview image renders correctly on GitHub.
-
-> **Note:** These are recommended repository file names. Rename your
-> existing files to match them, or update the paths in this README to
-> match the names you choose.
-
 ## How to Use
 
 1.  Clone or download this repository.
