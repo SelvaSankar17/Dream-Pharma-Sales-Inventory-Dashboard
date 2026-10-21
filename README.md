@@ -10,7 +10,7 @@ stock information across 2022--2025.
 
 ## Dashboard Preview
 
-![Dream Pharmaceutical Dashboard](Screenshots/Dream-Pharma-Dashboard.png)
+![Dream Pharmaceutical Dashboard](Screenshot/Dream-Pharma-Dashboard.png)
 
 ## Business Objectives
 
